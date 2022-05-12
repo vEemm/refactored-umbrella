@@ -1,3 +1,5 @@
 # refactored-umbrella
 
 ## Welcome
+
+Sample
